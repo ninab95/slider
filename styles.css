@@ -1,0 +1,72 @@
+body {
+    background-color: #FFFAFD;
+}
+
+.container {
+    width: 100%;
+    margin: 60px 0;
+}
+
+.wrapper {
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+.input-wrapper {
+    width: 50;
+}
+
+.imgs-wrapper {
+    width: 50%;
+    height: 400px;
+    position: relative;
+}
+
+img {
+    position: absolute;
+    width: 100%;
+    display: none;
+}
+
+.image-1 {
+    top: 20px;
+}
+
+.image-2 {
+    top: 30px;
+    left: 10px;
+}
+
+.image-3 {
+    top: -30px;
+    left: 20px;
+}
+
+.image-4 {
+    top: 0px;
+    right: 20px;
+}
+
+.image-5 {
+    top: 40px;
+    left: 10px;
+}
+
+.image-6 {
+    top: 8px;
+    left: 5px;
+}
+
+.image-7 {
+    top: 35px;
+    left: 20px;
+}
+
+.image-8 {
+    top: 50px;
+    left: 20px;
+}
